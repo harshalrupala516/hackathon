@@ -27,11 +27,11 @@ Ensure you have the following installed:
 ### Steps to Run Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/fire-noc-portal.git
+   git clone https://github.com/jenilgajera/hackathon
    ```
 2. Navigate to the project directory:
    ```sh
-   cd fire-noc-portal
+   cd hackathon
    ```
 3. Install dependencies:
    ```sh
@@ -58,4 +58,4 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out at [your-email@example.com].
+For any queries, reach out at harshalrupala516@gmail.com.
