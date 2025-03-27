@@ -1,6 +1,6 @@
 # 🚒 Fire NOC Portal 🔥
 
-<p align="center">
+<p align="left">
   <img src="https://lsgonline.rajasthan.gov.in/images/fire-noc-service.png" alt="Fire NOC Logo" width="150"/>
 </p>
 
