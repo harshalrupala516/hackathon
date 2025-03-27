@@ -1,7 +1,7 @@
 # 🚒 Fire NOC Portal 🔥
 
 <p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCYg5zmp4WlBMtx8IlfjtRTRqryMPttjKGw&s" alt="Fire NOC Logo" width="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCYg5zmp4WlBMtx8IlfjtRTRqryMPttjKGw&s" alt="Fire NOC Logo" width="500"/>
 </p>
 
 ## 🌟 Overview
