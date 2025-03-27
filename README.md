@@ -59,4 +59,4 @@ Ensure you have the following installed:
 📝 This project is licensed under the **MIT License**.
 
 ## 📧 Contact
-For any queries, feel free to reach out at **harshalrupala516@gmail.com** 📩
+For any queries, feel free to reach out at 📩**harshalrupala516@gmail.com** 
